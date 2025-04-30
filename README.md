@@ -3,10 +3,10 @@
 This is a small student project designed to process images containing both English letters and numbers, extract text from them, and retrieve geographical metadata stored within the image. The extracted data, including image name, serial number, and location coordinates, are then saved into a database.
 
 ### Features:
--[ ] Extracts text from images, including both numbers and letters.
--[ ] Retrieves geographical metadata stored in the image.
--[ ] Saves extracted data into a structured database.
--[ ] Supports deleting specific entries from the database using the "name" parameter.
+-[] Extracts text from images, including both numbers and letters.
+-[] Retrieves geographical metadata stored in the image.
+-[] Saves extracted data into a structured database.
+-[] Supports deleting specific entries from the database using the "name" parameter.
 
 ### Example Log Output:
 ```py
