@@ -68,7 +68,7 @@ python -u ProjectDataBase.py --image "path/to/image" --digit 0
 ```
 python -u ProjectDataBase.py --remove Apple Banana
 ```
-🔹 This command will delete entries named *Apple* and *Banana*.
+- This command will delete entries named *Apple* and *Banana*.
 
 ---
 
