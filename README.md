@@ -1,6 +1,6 @@
 # Image Processing and Metadata Storage for Database
 
-This is a small student project designed to process images containing both English letters and numbers, extract text from them, and retrieve geographical metadata stored within the image. The extracted data, including image name, serial number, and location coordinates, are then saved into a database.
+This is a **small student project** designed to **process images** containing both **English letters** and **numbers**, extract text from them, and retrieve **geographical metadata** stored within the image. The extracted data, including *image name*, *serial number*, and *location coordinates*, are then saved into a **database**. You can also **delete specific entries** from the database using the **same program**.
 
 ### Features:
 - Extracts text from images, including both numbers and letters.
@@ -15,8 +15,6 @@ print(f"Name: {machine_name}")
 print(f"Serial Number: {serial_number}")
 print(f"Location: {location}")
 ```
-
-You can also delete specific entries from the database using the same program.
 
 ### Testing the Database:
 A sample test database has been provided in this repository, which can be viewed online using [this website for View DB](https://sqliteviewer.app/) and [this website for query](https://sqliteonline.com/) or tested locally by cloning this project.
