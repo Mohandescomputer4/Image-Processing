@@ -80,5 +80,3 @@ python -u ProjectDataBase.py --remove Apple Banana
 ## Output Example
 
 Once an image is processed, the program extracts relevant data and displays it in the console while also saving it to the database.
-
-This formatted README file should be well-suited for GitHub. Let me know if you need any adjustments! 🚀
