@@ -1,4 +1,5 @@
 # Image Processing and Metadata Storage for Database
+This project was inspired by Dr.Malmir, whose brilliant idea laid the foundation for its development. Thanks for the insightful concept that sparked its creation!
 
 This is a **small student project** designed to **process images** containing both **English letters** and **numbers**, extract text from them, and retrieve **geographical metadata** stored within the image. The extracted data, including *image name*, *serial number*, and *location coordinates*, are then saved into a **database**. You can also **delete specific entries** from the database using the **same program**.
 
@@ -18,10 +19,6 @@ print(f"Location: {location}")
 
 ### Testing the Database:
 A sample test database has been provided in this repository, which can be viewed online using [this website for View DB](https://sqliteviewer.app/) and [this website for query](https://sqliteonline.com/) or tested locally by cloning this project.
-
-
-### Usage Policy:
-This project is open for **educational purposes** only.
 
 ---
 
