@@ -21,7 +21,7 @@ A sample test database has been provided in this repository, which can be viewed
 
 
 ### Usage Policy:
-This project is open for educational purposes only.
+This project is open for **educational purposes** only.
 
 ---
 
